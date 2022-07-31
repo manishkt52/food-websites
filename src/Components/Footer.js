@@ -52,8 +52,7 @@ const Footer = () => {
                 <i className='fas fa-gem me-3'></i>YUMMY
               </h6>
               <p>
-                Hi My name is NITISH.Currently iam pursuing my B.TECH degree from NSUT.
-                This is my very first Developement Project.
+                Hi My name is Manish Kumar Toppo. Currently I am pursuing Master in Computer Applications from NIT Kurukshetra.
               </p>
             </div>
 
@@ -112,10 +111,10 @@ const Footer = () => {
               </p>
               <p>
                 <i className='fas fa-envelope me-3'></i>
-                 njt22071999@gmail.com
+                 manishkt52@gmail.com
               </p>
               <p>
-                <i className='fas fa-phone me-3'></i> PERSONAL NUMBER: 8076131656
+                <i className='fas fa-phone me-3'></i> PERSONAL NUMBER: 8826582733
               </p>
             </div>
           </div>
